@@ -17,21 +17,26 @@ Langkah pertama pilih menu pyton di start menu, pilih IDLE(Pyton  3.9 64-bit)
 
 ![pyton](https://user-images.githubusercontent.com/72840534/97858536-df300000-1d31-11eb-93bd-686873e56aee.png)
 
-Cara membuat File Pyton
+Maka tampilannya akan seperti ini
 
-klik  New File
+(Gambar)
+
+Selanjutnya klik File --> New File
 
 ![klik new file](https://user-images.githubusercontent.com/72840534/97858781-3f26a680-1d32-11eb-955f-8891f86f4043.png)
 
-lalu simpan file tersebut denga cara Save As
+Dan tampilannya akan seperti ini 
+(Gambar)
+
+Sebelum Memulai File tersebut akan kita simpan terlebih dahulu denga cara Save As
+
+Klik File --> Save As
 
 (Gambar)
 
 01. Latihan1 biodata
 
 Memaasukan info biodata kita
-
-Ketik di IDLE Pyton
 
 Klik Run Module
 (Gambar)
