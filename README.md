@@ -13,7 +13,9 @@ Tugas :
 
 02. Latihan Lab1, penggunaan end, separator & string format dan lab2 konversi nilai variable
 
-Langkah pertama pilih menu pyton di start menu, pilih IDLE(Pyton  3.9 64-bit)
+Langkah pertama Download aplikasi Pyton
+
+Selnjutnya klik folder pyton di start menu,kemudian pilih IDLE (Pyton 3.9 64-bit)
 
 ![pyton](https://user-images.githubusercontent.com/72840534/97858536-df300000-1d31-11eb-93bd-686873e56aee.png)
 
