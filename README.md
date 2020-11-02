@@ -7,9 +7,14 @@ kelas:TI.20.B.1
 
 Dosen : Agung Nugroho,S.Kom.,M.Kom
 
-Tugas : Membuat program pyton Latihan1_input biodata, lab1 penggunaan end, separator& string format dan lab2 konversi nilai variable
+Tugas : 
 
-untuk membuka  pilih menu pyton di start menu, pilih IDLE(Pyton  3.9 64-bit)
+01. Membuat program pyton Latihan1_input biodata, 
+
+02. Latihan Lab1, penggunaan end, separator & string format dan lab2 konversi nilai variable
+
+Langkah pertama pilih menu pyton di start menu, pilih IDLE(Pyton  3.9 64-bit)
+
 ![pyton](https://user-images.githubusercontent.com/72840534/97858536-df300000-1d31-11eb-93bd-686873e56aee.png)
 
 Cara membuat File Pyton
@@ -27,7 +32,8 @@ lalu simpan file tersebut denga cara Save As
 Memaasukan info biodata kita
 
 Ketik di IDLE Pyton
-Klim Run Module
+
+Klik Run Module
 (Gambar)
 
 Hasik setelah diklik Run Module
@@ -37,7 +43,9 @@ Hasik setelah diklik Run Module
 .
 02.Tugas Inputan Lab1_Penggunaan end, separator& string format
 
+
 ![inputan](https://user-images.githubusercontent.com/72840534/97859699-911bfc00-1d33-11eb-9ef1-b8b392ab5c65.png)
+
 
 selanjutnya ketik di IDLE pyton
 
