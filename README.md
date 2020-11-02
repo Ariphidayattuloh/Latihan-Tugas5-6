@@ -1,7 +1,11 @@
 # Latihan-Tugas5-6
+
 Nama  :Arip Hidayattuloh
+
 Nim: 312010244
+
 kelas:TI.20.B.1
+
 Dosen : Agung Nugroho,S.Kom.,M.Kom
 
 Tugas : Membuat program pyton Latihan1_input biodata, lab1 penggunaan end, separator& string format dan lab2 konversi nilai variable
@@ -20,13 +24,20 @@ Tugas Inputan Lab1_Penggunaan end, separator& string format
 ![inputan](https://user-images.githubusercontent.com/72840534/97859699-911bfc00-1d33-11eb-9ef1-b8b392ab5c65.png)
 
 selanjutnya kita ketik di IDLE
+
+
 LAB1
 ![latihan lab1 1](https://user-images.githubusercontent.com/72840534/97859845-bf99d700-1d33-11eb-9775-469149a916b6.png)
 setelah  itu klik Run module
 ![latihan Lab 1](https://user-images.githubusercontent.com/72840534/97860129-2dde9980-1d34-11eb-8cf7-d7809e1f35a4.png)
 
 Lab2
-![latihan lab 2](https://user-images.githubusercontent.com/72840534/97860252-6b432700-1d34-11eb-94da-e6cab64ca530.png)![lab 1 1](https://user-images.githubusercontent.com/72840534/97861160-efe27500-1d35-11eb-8396-ef9daef5aeb
-
+![latihan lab 2](https://user-images.githubusercontent.com/72840534/97860252-6b432700-1d34-11eb-94da-e6cab64ca530.png)
 
 tampilan setelah di Run  module
+(Gambar)
+Lab3
+(Gambar)
+Hasil di Run module
+(Gambar)
+Sekian terimakasih
