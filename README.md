@@ -41,6 +41,7 @@ Klik File --> Save As
 
 Lalu simpan file pyton di folder yg kita inginkan
 (Gambar)
+![save as](https://user-images.githubusercontent.com/72840534/97978769-a01cb000-1e00-11eb-9b71-0020f31e0948.png)
 
 1. Latihan1 biodata
 
