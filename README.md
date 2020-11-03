@@ -39,7 +39,10 @@ Klik File --> Save As
 
 ![SAVE AS](https://user-images.githubusercontent.com/72840534/97961990-d816f980-1de6-11eb-9920-f0dc78e3af15.png)
 
-01. Latihan1 biodata
+Lalu simpan file pyton di folder yg kita inginkan
+(Gambar)
+
+1. Latihan1 biodata
 
 Memaasukan info biodata kita
 ![biodata 2](https://user-images.githubusercontent.com/72840534/97970632-5ded7180-1df4-11eb-97ef-b30c7aef74e4.png)
@@ -51,10 +54,7 @@ Modul Klik Run
 
 
 
-.
-.
-.
-02.Tugas Inputan Lab1_Penggunaan end, separator& string format
+2.Tugas Inputan Lab1_Penggunaan end, separator& string format
 
 
 ![inputan](https://user-images.githubusercontent.com/72840534/97859699-911bfc00-1d33-11eb-9ef1-b8b392ab5c65.png)
@@ -76,7 +76,8 @@ Lab2
 
 Lalu klik Run Module
 
-![latihan lab 2](https://user-images.githubusercontent.com/72840534/97860252-6b432700-1d34-11eb-94da-e6cab64ca530.png)![lab 1 1](https://user-images.githubusercontent.com/72840534/97861160-efe27500-1d35-11eb-8396-ef9daef5aeb
+![latihan lab 2](https://user-images.githubusercontent.com/72840534/97860252-6b432700-1d34-11eb-94da-e6cab64ca530.png)
+
 
 
 tampilan setelah di Run  module
