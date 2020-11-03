@@ -40,9 +40,12 @@ Klik File --> Save As
 01. Latihan1 biodata
 
 Memaasukan info biodata kita
-
-Klik Run Module
-
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s![biodata 2](https://user-images.githubusercontent.com/72840534/97970632-5ded7180-1df4-11eb-97ef-b30c7aef74e4.png) </s> </s>
+</s> orang </s>
+Modul Klik Run
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s>![biodata 2 1](https://user-images.githubusercontent.com/72840534/97970694-7f4e5d80-1df4-11eb-977a-d984a1cdbe63.png)
+ </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 ![biodata 2 1](https://user-images.githubusercontent.com/72840534/97967933-86736c80-1df0-11eb-81ae-01097bd9ea26.png)
 Hasik setelah diklik Run Module
 (Gambar![biodata 2](https://user-images.githubusercontent.com/72840534/97968031-ae62d000-1df0-11eb-9af1-d05144f62bc0.png)
