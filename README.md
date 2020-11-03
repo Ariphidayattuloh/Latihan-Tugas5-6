@@ -14,6 +14,7 @@ Tugas :
 02. Latihan Lab1, penggunaan end, separator & string format dan lab2 konversi nilai variable
 
 Langkah pertama Download aplikasi Pyton
+![pytonjpg](https://user-images.githubusercontent.com/72840534/97961227-7efa9600-1de5-11eb-99d9-c910d077a14f.png)
 
 Selnjutnya klik folder pyton di start menu,kemudian pilih IDLE (Pyton 3.9 64-bit)
 
@@ -21,30 +22,30 @@ Selnjutnya klik folder pyton di start menu,kemudian pilih IDLE (Pyton 3.9 64-bit
 
 Maka tampilannya akan seperti ini
 
-(Gambar)
+(Gambar![IDLE](https://user-images.githubusercontent.com/72840534/97961434-e87aa480-1de5-11eb-9b97-5fbeb6252be9.png)
 
 Selanjutnya klik File --> New File
 
 ![klik new file](https://user-images.githubusercontent.com/72840534/97858781-3f26a680-1d32-11eb-955f-8891f86f4043.png)
 
 Dan tampilannya akan seperti ini 
-(Gambar)
+(Gambar)![KETIKAN](https://user-images.githubusercontent.com/72840534/97961743-72c30880-1de6-11eb-926e-e05d52762a03.png)
 
 Sebelum Memulai File tersebut akan kita simpan terlebih dahulu denga cara Save As
 
 Klik File --> Save As
 
-(Gambar)
+(Gambar)![SAVE AS](https://user-images.githubusercontent.com/72840534/97961990-d816f980-1de6-11eb-9920-f0dc78e3af15.png)
 
 01. Latihan1 biodata
 
 Memaasukan info biodata kita
 
 Klik Run Module
-(Gambar)
 
+![biodata 2 1](https://user-images.githubusercontent.com/72840534/97967933-86736c80-1df0-11eb-81ae-01097bd9ea26.png)
 Hasik setelah diklik Run Module
-(Gambar)
+(Gambar![biodata 2](https://user-images.githubusercontent.com/72840534/97968031-ae62d000-1df0-11eb-9af1-d05144f62bc0.png)
 .
 .
 .
@@ -75,13 +76,13 @@ Lalu klik Run Module
 
 tampilan setelah di Run  module
 
-Gambar
+Gambar![hasil lab 1 1](https://user-images.githubusercontent.com/72840534/97968191-e1a55f00-1df0-11eb-8772-872f8b0d226e.png)
 
 Lab3
-
+![lab 3](https://user-images.githubusercontent.com/72840534/97968382-2630fa80-1df1-11eb-81b6-f832cb4a2b44.png)
 Lalu klik Run Module
 Gambar)
-
+![lab3](https://user-images.githubusercontent.com/72840534/97968432-3648da00-1df1-11eb-87b5-1c7cfc457adf.png)
 
 Setelah itu klik Run module
 (Gambar)
