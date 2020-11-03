@@ -48,11 +48,8 @@ Modul Klik Run
 ![biodata 2 1](https://user-images.githubusercontent.com/72840534/97970694-7f4e5d80-1df4-11eb-977a-d984a1cdbe63.png)
 
 
-![biodata 2 1](https://user-images.githubusercontent.com/72840534/97967933-86736c80-1df0-11eb-81ae-01097bd9ea26.png)
 
-Hasik setelah diklik Run Module
 
-![biodata 2](https://user-images.githubusercontent.com/72840534/97968031-ae62d000-1df0-11eb-9af1-d05144f62bc0.png)
 .
 .
 .
