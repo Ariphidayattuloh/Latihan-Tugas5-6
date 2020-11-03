@@ -22,7 +22,7 @@ Selnjutnya klik folder pyton di start menu,kemudian pilih IDLE (Pyton 3.9 64-bit
 
 Maka tampilannya akan seperti ini
 
-(Gambar![IDLE](https://user-images.githubusercontent.com/72840534/97961434-e87aa480-1de5-11eb-9b97-5fbeb6252be9.png)
+![IDLE](https://user-images.githubusercontent.com/72840534/97961434-e87aa480-1de5-11eb-9b97-5fbeb6252be9.png)
 
 Selanjutnya klik File --> New File
 
@@ -84,17 +84,18 @@ tampilan setelah di Run  module
 
 Lab3
 
+Lalu klik Run Module
 
 ![lab 3](https://user-images.githubusercontent.com/72840534/97968382-2630fa80-1df1-11eb-81b6-f832cb4a2b44.png)
 
 
-Lalu klik Run Module
-
-
-![lab3](https://user-images.githubusercontent.com/72840534/97968432-3648da00-1df1-11eb-87b5-1c7cfc457adf.png)
 
 Setelah itu klik Run module
 (Gambar)
+
+![lab3](https://user-images.githubusercontent.com/72840534/97968432-3648da00-1df1-11eb-87b5-1c7cfc457adf.png)
+
+
 
 
 Cukup sekian dari saya asalammualaikum wr.wb
